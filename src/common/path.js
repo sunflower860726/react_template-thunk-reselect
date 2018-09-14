@@ -1,0 +1,2 @@
+export const BITCOIN_URL = 'https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=100';
+export const ETHEREUML_URL = 'https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=100';
